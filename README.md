@@ -1,4 +1,3 @@
-```
 # Exercise-01d-Export-from-Twine
 
 Exercise for MSCH-C220, 3 February 2021
@@ -16,4 +15,3 @@ None
 
 ## Created by
 Camilla Clark
-```
